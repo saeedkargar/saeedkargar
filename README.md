@@ -26,13 +26,14 @@ I'm an AI Research Scientist with expertise in **Deep Learning**, **LLMs**, and 
 
 ### 📫 How to reach me
 <div display="flex">
-  <a href="https://www.linkedin.com/in/saeedkargar/">
+  <a href="https://www.linkedin.com/in/saeed-kargar-23498a1ba/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/saeedkargar">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://users.soe.ucsc.edu/~saeedkargar/">
+    <img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
+
 
 ### ⚡ Fun fact
 I love exploring how AI can make systems more sustainable!
